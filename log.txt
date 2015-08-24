@@ -1,0 +1,190 @@
+
+[23:45:16] Image seuillee créée. Seuil : automatique
+[23:45:16] Nombre de contours trouvés d'aire supérieure a 100: 27
+[23:45:16] Image finale créée.
+[23:45:16] Image seuillee créée. Seuil : automatique
+[23:45:17] Nombre de Contours : 4
+--------------
+Friday 21 November 2014 23:45:23
+--------------
+
+[23:45:27] Photo prise.
+[23:45:28] Image seuillee créée. Seuil : automatique
+[23:45:28] Nombre de contours trouvés d'aire supérieure a 100: 28
+[23:45:28] Image finale créée.
+[23:45:28] Image seuillee créée. Seuil : automatique
+[23:45:28] Nombre de Contours : 22
+--------------
+Friday 21 November 2014 23:45:35
+--------------
+
+[23:45:38] Photo prise.
+[23:45:39] Image seuillee créée. Seuil : automatique
+[23:45:39] Nombre de contours trouvés d'aire supérieure a 100: 4
+[23:45:39] Image finale créée.
+[23:45:39] Image seuillee créée. Seuil : automatique
+[23:45:39] Nombre de Contours : 1
+--------------
+Friday 21 November 2014 23:46:45
+--------------
+
+[23:46:48] Photo prise.
+[23:46:49] Image seuillee créée. Seuil : automatique
+[23:46:49] Nombre de contours trouvés d'aire supérieure a 100: 27
+[23:46:49] Image finale créée.
+[23:46:49] Image seuillee créée. Seuil : automatique
+[23:46:49] Nombre de Contours : 3
+--------------
+Friday 21 November 2014 23:47:28
+--------------
+
+[23:47:31] Photo prise.
+[23:47:32] Image seuillee créée. Seuil : automatique
+[23:47:32] Nombre de contours trouvés d'aire supérieure a 100: 37
+[23:47:32] Image finale créée.
+[23:47:32] Image seuillee créée. Seuil : automatique
+[23:47:32] Nombre de Contours : 0
+--------------
+Friday 21 November 2014 23:48:18
+--------------
+
+[23:48:21] Photo prise.
+[23:48:22] Image seuillee créée. Seuil : automatique
+[23:48:22] Nombre de contours trouvés d'aire supérieure a 100: 21
+[23:48:22] Image finale créée.
+[23:48:22] Image seuillee créée. Seuil : automatique
+[23:48:22] Nombre de Contours : 3
+--------------
+Friday 21 November 2014 23:54:05
+--------------
+
+[23:54:08] Photo prise.
+[23:54:09] Image seuillee créée. Seuil : automatique
+[23:54:09] Nombre de contours trouvés d'aire supérieure a 100: 42
+[23:54:09] Image finale créée.
+[23:54:09] Image seuillee créée. Seuil : automatique
+[23:54:09] Nombre de Contours : 3
+--------------
+Saturday 22 November 2014 13:03:32
+--------------
+
+[13:03:32] Image Lue
+[13:03:32] Image seuillee créée. Seuil : automatique
+[13:03:32] Nombre de contours trouvés d'aire supérieure a 100: 42
+[13:03:32] Image finale créée.
+[13:03:32] Image seuillee créée. Seuil : automatique
+[13:03:32] Nombre de Contours : 3
+--------------
+Saturday 22 November 2014 13:27:05
+--------------
+
+[13:27:05] Image Lue
+[13:27:05] Image seuillee créée. Seuil : automatique
+[13:27:05] Nombre de contours trouvés d'aire supérieure a 100: 42
+[13:27:05] Image finale créée.
+[13:27:05] Image seuillee créée. Seuil : automatique
+[13:27:05] Nombre de Contours : 3
+[13:28:55] Moteur allumé : Fréquence : 1000 Hz
+                Temps:10
+[13:29:06] Moteur allumé : Fréquence : 1000 Hz
+                Temps:10
+[13:29:12] Moteur allumé : Fréquence : 1000 Hz
+                Temps:10
+[13:29:28] Moteur allumé : Fréquence : 1000 Hz
+                Temps:10
+[13:29:35] Moteur allumé : Fréquence : 1000 Hz
+                Temps:10
+[13:29:41] Moteur allumé : Fréquence : 1000 Hz
+                Temps:10
+[13:29:46] Moteur allumé : Fréquence : 1000 Hz
+                Temps:10
+[13:29:54] Moteur allumé : Fréquence : 1000 Hz
+                Temps:10
+[13:30:02] Moteur allumé : Fréquence : 1000 Hz
+                Temps:10
+--------------
+Saturday 22 November 2014 13:33:11
+--------------
+
+[13:33:11] Image Lue
+[13:33:11] Image seuillee créée. Seuil : automatique
+[13:33:11] Nombre de contours trouvés d'aire supérieure a 100: 42
+[13:33:11] Image finale créée.
+[13:33:11] Image seuillee créée. Seuil : automatique
+[13:33:11] Nombre de Contours : 3
+--------------
+Saturday 22 November 2014 13:36:10
+--------------
+
+[13:36:10] Image Lue
+[13:36:10] Image seuillee créée. Seuil : automatique
+--------------
+Saturday 22 November 2014 13:37:04
+--------------
+
+[13:37:04] Image Lue
+[13:37:04] Image seuillee créée. Seuil : automatique
+[13:37:04] Nombre de contours trouvés d'aire supérieure a 100: 42
+[13:37:04] Image finale créée.
+[13:37:04] Image seuillee créée. Seuil : automatique
+[13:37:05] Nombre de Contours : 3
+--------------
+Saturday 22 November 2014 13:56:24
+--------------
+
+[13:56:24] Image Lue
+[13:56:24] Image seuillee créée. Seuil : automatique
+[13:56:24] Nombre de contours trouvés d'aire supérieure a 50: 90
+[13:56:24] Image finale créée.
+[13:56:24] Image seuillee créée. Seuil : automatique
+[13:56:24] Nombre de Contours : 6
+--------------
+Saturday 22 November 2014 13:56:54
+--------------
+
+[13:56:54] Image Lue
+[13:56:54] Image seuillee créée. Seuil : automatique
+[13:56:54] Nombre de contours trouvés d'aire supérieure a 50: 90
+[13:56:54] Image finale créée.
+[13:56:54] Image seuillee créée. Seuil : automatique
+[13:56:54] Nombre de Contours : 6
+--------------
+Saturday 22 November 2014 13:57:11
+--------------
+
+[13:57:11] Image Lue
+[13:57:11] Image seuillee créée. Seuil : automatique
+[13:57:11] Nombre de contours trouvés d'aire supérieure a 50: 90
+[13:57:11] Image finale créée.
+[13:57:11] Image seuillee créée. Seuil : automatique
+[13:57:11] Nombre de Contours : 6
+--------------
+Saturday 22 November 2014 13:58:11
+--------------
+
+[13:58:11] Image Lue
+[13:58:11] Image seuillee créée. Seuil : automatique
+[13:58:11] Nombre de contours trouvés d'aire supérieure a 50: 90
+[13:58:11] Image finale créée.
+[13:58:11] Image seuillee créée. Seuil : automatique
+[13:58:11] Nombre de Contours : 6
+--------------
+Saturday 22 November 2014 13:58:53
+--------------
+
+[13:58:53] Image Lue
+[13:58:53] Image seuillee créée. Seuil : automatique
+[13:58:53] Nombre de contours trouvés d'aire supérieure a 80: 50
+[13:58:53] Image finale créée.
+[13:58:53] Image seuillee créée. Seuil : automatique
+[13:58:53] Nombre de Contours : 6
+--------------
+Saturday 22 November 2014 13:59:09
+--------------
+
+[13:59:09] Image Lue
+[13:59:09] Image seuillee créée. Seuil : automatique
+[13:59:09] Nombre de contours trouvés d'aire supérieure a 100: 42
+[13:59:09] Image finale créée.
+[13:59:09] Image seuillee créée. Seuil : automatique
+[13:59:09] Nombre de Contours : 6
